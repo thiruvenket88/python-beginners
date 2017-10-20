@@ -1,0 +1,11 @@
+def main():
+    print "hello world"
+
+if __name__ == '__main__':
+    main()
+    *** Remote Python engine  is active ***
+>>> 
+*** Remote Interpreter Reinitialized  ***
+>>> 
+hello world
+>>> 
