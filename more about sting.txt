@@ -1,0 +1,13 @@
+def main():
+
+    mystering='hi programer'
+    print(mystering [3:8])
+    print(mystering.find("g"))
+
+
+if __name__ == '__main__':
+    main()
+>>> 
+progr
+6
+>>> 
