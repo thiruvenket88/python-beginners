@@ -1,0 +1,13 @@
+def main():
+
+    mystering='hi programmer'
+    print(mystering)
+
+
+if __name__ == '__main__':
+    main()
+   >>> 
+*** Remote Interpreter Reinitialized  ***
+>>> 
+hi programmer
+>>>  
