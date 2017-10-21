@@ -1,0 +1,7 @@
+>>> 
+age is eligible
+>>> 
+*** Remote Interpreter Reinitialized  ***
+>>> 
+age is not eligible
+>>> 
