@@ -1,0 +1,11 @@
+Sample Code for Tuples :
+year_born = ("Paris Hilton", 1981)
+print year_born[0]
+print year_born[1]
+year_born[1] = 2011 # any modification will throw error
+
+Sample Code for Dictionaries :
+mydict = {"apples": 430, "bananas": 312, "oranges": 525, "pears": 217}
+print "Cost of apple is " + str(mydict["apples"])
+mydict["apples"] = 800
+print "New Cost of apple is " + str(mydict["apples"])
