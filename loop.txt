@@ -1,0 +1,18 @@
+#python code goes here
+#python version :3 
+
+def main():
+ count = 0
+ while (count < 9):
+   print 'The count is:', count
+   count = count + 1
+print "Good bye!"
+
+if __name__ == '__main__':
+    main()
+    The count is: 4
+The count is: 5
+The count is: 6
+The count is: 7
+The count is: 8
+>>> 
